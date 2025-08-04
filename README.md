@@ -1,62 +1,20 @@
-# 👋 Jeremiah Brenio - JSBrenio
-
-<p>
+<p align="left">
+  <h1> 👋 Jeremiah Brenio - JSBrenio </h1>
   <a href="https://jsbrenio.com/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-jsbrenio.com-00d4ff?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/jsbrenio" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/jeremiah-brenio/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:contact@jsbrenio.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
 </p>
 
-<br>
+**`Software Developer`**
 
-## 👨‍💻 Languages I speak
+Recent computer science graduate, detail-oriented programmer and team player dedicated to fostering teamwork and supporting the growth of others. Committed to continuous learning and adapting to new challenges.
 
-  <p>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Ajava" style="text-decoration: none;">
-        <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Apython" style="text-decoration: none;">
-        <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Ac" style="text-decoration: none;">
-        <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Acsharp" style="text-decoration: none;">
-        <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Abash" style="text-decoration: none;">
-        <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Ajavascript" style="text-decoration: none;">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3AtypeScript" style="text-decoration: none;">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Ahtml" style="text-decoration: none;">
-        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Acss" style="text-decoration: none;">
-        <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Atex" style="text-decoration: none;">
-        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Amarkdown" style="text-decoration: none;">
-        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-    </a>
-    <a href="https://github.com/search?q=user%3AJSBrenio+language%3Ar" style="text-decoration: none;">
-        <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
-    </a>
-  </p>
-
-<br>
 
 ## 📊 GitHub Analytics
 

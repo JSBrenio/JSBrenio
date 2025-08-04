@@ -1,20 +1,14 @@
-<p align="left">
-  <h1> 👋 Jeremiah Brenio - JSBrenio </h1>
-  <a href="https://jsbrenio.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-jsbrenio.com-00d4ff?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/jeremiah-brenio/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:contact@jsbrenio.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+# 👋 Jeremiah Brenio - JSBrenio
 
 **`Software Developer`**
 
 Recent computer science graduate, detail-oriented programmer and team player dedicated to fostering teamwork and supporting the growth of others. Committed to continuous learning and adapting to new challenges.
 
+<p align="left">
+  <a href="https://jsbrenio.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-jsbrenio.com-00d4ff?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/jeremiah-brenio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:contact@jsbrenio.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ## 📊 GitHub Analytics
 

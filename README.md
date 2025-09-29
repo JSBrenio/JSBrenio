@@ -14,12 +14,9 @@ Recent computer science graduate, detail-oriented programmer and team player ded
 
 ## 📊 GitHub Analytics
 
-  <p>
-    <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=JSBrenio&theme=highcontrast&hide_border=true&short_numbers=true&background=0D1117&stroke=FFFF00&ring=FFFF00&fire=00FFFF&currStreakLabel=FFFF00" alt="JSBrenio's streak"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSBrenio&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFF00&text_color=00FFFF&icon_color=FFFF00" alt="JSBrenio's Top Languages"/>
-  </p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSBrenio&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFF00&text_color=00FFFF&icon_color=FFFF00" alt="JSBrenio's Top Languages"/> -->
 
-<img height="" src="https://github-readme-activity-graph.vercel.app/graph/?username=JSBrenio&bg_color=0D1117&color=FFFF00&line=00FFFF&point=FFFF00&hide_border=true" alt="JSBrenio's Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSBrenio&layout=normal&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFF00&text_color=00FFFF&langs_count=20&card_width=1000" alt="JSBrenio's Top Languages"/>
 
 ---
 
